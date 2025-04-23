@@ -1,4 +1,4 @@
-package coursework1;
+package TaxCalculator;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
